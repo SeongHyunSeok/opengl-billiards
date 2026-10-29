@@ -39,3 +39,13 @@ cmake_install.cmake
 .idea/
 .DS_Store
 Thumbs.db
+
+# Runnable release package
+!/Release/
+/Release/*
+!/Release/컴그최종프로젝트.exe
+!/Release/vertex2.glsl
+!/Release/fragment2.glsl
+!/Release/sphere.obj
+!/Release/billiard.wav
+!/Release/stomp.wav
