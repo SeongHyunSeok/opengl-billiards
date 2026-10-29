@@ -14,7 +14,7 @@ C++와 OpenGL로 제작한 3D 당구 시뮬레이션입니다. 큐를 직접 당
 
 ## 기술 스택
 
-`C++17` · `OpenGL` · `GLSL` · `GLEW` · `freeglut` · `GLM`
+`C++` · `OpenGL` · `GLSL` · `GLEW` · `freeglut` · `GLM`
 
 ## 실행 방법
 
